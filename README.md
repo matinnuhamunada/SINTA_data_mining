@@ -1,2 +1,2 @@
 # SINTA_data_mining
-Proyek iseng data mining dari https://sinta.ristekbrin.go.id
+Proyek iseng scraping data dari https://sinta.ristekbrin.go.id.
