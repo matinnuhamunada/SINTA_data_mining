@@ -1,4 +1,4 @@
-No,Nama,NIDN
+No,name,NIDN
 0,Rarastoeti Pratiwi,0025106305
 1,Yekti Asih Purwestri,0023057104
 2,Tri Rini Nuringtyas,0027037304
@@ -41,7 +41,7 @@ No,Nama,NIDN
 39,Diah Rachmawati,0010017102
 40,Kumala Dewi,0008046606
 41,Dwi Umi Siswanti,0510097701
-42,Tri Joko,0027027513
+42,Trijoko,0027027513
 43,Bambang Agus Suripto,0026075805
 44,Rury Eprilurahman,0021048102
 45,Ratih Aryasari,0018046902
@@ -54,7 +54,7 @@ No,Nama,NIDN
 52,Susilohadi,0026086802
 53,Zuliyati Rohmah,0001077901
 54,Bambang Retnoaji,0020107002
-55,Hendry TSSG Saragih,0026097803
+55,Hendry Tssg Saragih,0026097803
 56,Luthfi Nurhidayat,0014118703
 57,Mulyati,0024105907
 58,Slamet Widiyanto,0013126803
@@ -67,3 +67,11 @@ No,Nama,NIDN
 65,Hari Purwanto,0012076605
 66,Sukirno,0012038104
 67,Ignatius Sudaryadi,0016076706
+68,Akbar Reza,
+69,Novita Yustinadiar,
+70,Annas Rabbani,
+71,Nur Indah Septriani,
+72,Sidiq Permana Putra,
+73,Utaminingsih,
+74,Wahyu Aristyaning Putri,
+75,Dwi Sendi Priyono,
