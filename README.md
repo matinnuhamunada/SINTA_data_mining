@@ -1,18 +1,12 @@
 # SINTA_data_mining
-Proyek iseng scraping peneliti _life sciences_ di Indonesia ini berawal dari kesulitan saya menjawab pertanyaan seorang kolega: **"Siapa sih pakar biologi molekuler di institusimu? Penelitiannya tentang apa?"**
+Proyek iseng scraping peneliti _life sciences_ di Indonesia dari https://sinta.ristekbrin.go.id. 
+Kunjungi tulisan saya mengenai output proyek ini di [**https://matinnuhamunada.github.io**](https://matinnuhamunada.github.io/posts/2021/07/sintalifesciences).
 
-Disini, saya mencoba mencari jawabannya dengan menggunakan informasi dari https://sinta.ristekbrin.go.id. 
-Kunjungi juga tulisan saya mengenai output proyek ini di [**https://matinnuhamunada.github.io**](https://matinnuhamunada.github.io/posts/2021/07/sintalifesciences).
+_Thanks to https://github.com/rendicahya/sinta-scraper for making this happen_
 
 ## _Goals_
 Repository ini bertujuan untuk memetakan peneliti _life sciences_ di Indonesia. Dengan memetakan bidang keahlian peneliti _life sciences_, diharapkan kita dapat dengan mudah mencari kolaboran di berbagai institusi di Indonesia.
 
-## _Warning & Caveats_
-* _I am by no means someone experienced with bibliometric analyses_
-* Informasi hanya didasarkan pada database SINTA sehingga afiliasi dan data peneliti belum tentu akurat
-* Proyek ini tidak ditujukan untuk merangking atau membandingkan kualitas peneliti di suatu institusi. Indeks sitasi tidak sepenuhnya dapat digunakan untuk menilai kualitas seorang peneliti. _Recommended read_ di [*https://theconversation.com*](https://theconversation.com/jalan-evolusi-bibliometrik-indonesia-104781)
-* Pemilihan institusi dan bidang ilmu peneliti sepenuhnya subjektif (bidang ilmu apa saja yang termasuk _Life Sciences?_)
- 
 ## Bagaimana kamu bisa berkontribusi?
 Anda bisa berkontribusi dengan cara:
 * Melakukan kurasi terhadap data, baik dengan mengisi tabel identitas peneliti secara manual, atau juga memberikan informasi mengenai peneliti yang sudah pensiun / tidak aktif.
@@ -49,4 +43,4 @@ Anda bisa berkontribusi dengan cara:
 * [VOS viewer](https://www.vosviewer.com/)
 * [Membuat semacam shiny App?](https://bibliometrix.org/)
 
-
+_Thanks to this page on how to embed bokeh html_ [here](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/)
