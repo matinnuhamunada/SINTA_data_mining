@@ -4,7 +4,7 @@ Proyek iseng scraping peneliti _life sciences_ di Indonesia ini berawal dari kes
 Disini, saya mencoba mencari jawabannya dengan menggunakan informasi dari https://sinta.ristekbrin.go.id. 
 Kunjungi juga tulisan saya mengenai output proyek ini di [**https://matinnuhamunada.github.io**](https://matinnuhamunada.github.io/posts/2021/07/sintalifesciences).
 
-## Goals
+## _Goals_
 Repository ini bertujuan untuk memetakan peneliti _life sciences_ di Indonesia. Dengan memetakan bidang keahlian peneliti _life sciences_, diharapkan kita dapat dengan mudah mencari kolaboran di berbagai institusi di Indonesia.
 
 ## _Warning & Caveats_
@@ -20,7 +20,7 @@ Anda bisa berkontribusi dengan cara:
 * Mengolah dan menganalisis data
 * Memberikan kritikan dan masukan :)
 
-## Data structure
+## _Repo structure_
 ```
 ├── README.md
 ├── data
@@ -41,7 +41,7 @@ Anda bisa berkontribusi dengan cara:
     └── bio_sinta.html # bokeh output
 ```
 
-## _Ideas & To Do's_
+## _Ideas & To Dos_
 * _Add search function in bokeh_
 * _Bibliometric data scraping_
 * _Author network analyses_
