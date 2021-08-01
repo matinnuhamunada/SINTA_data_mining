@@ -1,0 +1,10 @@
+name: sintamining
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - pandas = 1.3.0
+    - bokeh = 2.3.3
+    - nodejs = 16.5.0     
+    - pip:
+        - sinta-scraper
