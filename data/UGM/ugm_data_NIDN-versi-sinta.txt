@@ -1,77 +1,77 @@
-No,name,NIDN
-0,Rarastoeti Pratiwi,0025106305
-1,Yekti Asih Purwestri,0023057104
-2,Tri Rini Nuringtyas,0027037304
-3,Woro Anindito Sri Tunjung,0520077903
-4,Lisna Hidayati,0021038604
-5,Endang Semiarti,00231162o4
-6,Ari Indrianto,0025115805
-7,Eko Agus Suyono, 0018127101
-8,Aries Bagus Sasongko,0511038303
-9,Matin Nuhamunada,1120170053
-10,Suwarno Hadisusanto,0016115402
-11,Tjut Sugandawaty Djohan,0012095303
-12,Retno Peni Sancayaningsih,0029095505
-13,Andhika Puspito Nugroho,0008087602
-14,Siti Nurleily Marliana,0001047501
-15,Mukhlish Jamal Musa Holle,1120170105
-16,Niken Satuti Nur Handayani,0028126503
-17,Budi Setiadi Daryono,0026037001
-18,Tuty Arisuryanti,0029046602
-19,Ganies Riza Aristya,0016028403
-20,Indra Lesmana,1120170054
-21,Agnes Endang Sutariningsih S,0017124703
-22,Endah Retnaningrum,0019037201
-23,Miftahul Ilmi,0023098002
-24,Sari Darmasiwi,0507088401
-25,Abdul Rahman Siregar,0526118402
-26,Arief Muammar,1120170055
-27,Purnomo,0021045504
-28,Rina Sri Kasiamdari,0010126704
-29,Heri Sujadmiko,0009026402
-30,Ratna Susandarini,0007046905
-31,Ludmilla Fitri Untari,0006117201
-32,Abdul Razaq Chasani,0029037401
-33,Laurentius Hartanto Nugroho,0030046502
-34,Suharyanto,0006125503
-35,Maryani,0010076504
-36,Sutikno,0018095606
-37,Siti Susanti,0016125703
-38,Sudjino,0012055606
-39,Diah Rachmawati,0010017102
-40,Kumala Dewi,0008046606
-41,Dwi Umi Siswanti,0510097701
-42,Trijoko,0027027513
-43,Bambang Agus Suripto,0026075805
-44,Rury Eprilurahman,0021048102
-45,Ratih Aryasari,0018046902
-46,Donan Satria Yudha,05 261080 01
-47,Rr Upiek Ngesti Wibawaning A,0028036404
-48,Soenarwan Hery Poerwanto,0018027301
-49,Dila Hening Windyaraini,1120160047
-50,Johanes Sugiyanto,0029095304
-51,Ardaning Nuriliani,0020128001 
-52,Susilohadi,0026086802
-53,Zuliyati Rohmah,0001077901
-54,Bambang Retnoaji,0020107002
-55,Hendry Tssg Saragih,0026097803
-56,Luthfi Nurhidayat,0014118703
-57,Mulyati,0024105907
-58,Slamet Widiyanto,0013126803
-59,Laksmindra Fitria,0016107503
-60,Nastiti Wijayanti,0021037908
-61,Rahadian Yudo Hartantyo,0007108703
-62,Fajar Sofyantoro,0003058904
-63,R C Hidayat Soesilohadi,0008075706
-64,Siti Sumarmi,0005055908
-65,Hari Purwanto,0012076605
-66,Sukirno,0012038104
-67,Ignatius Sudaryadi,0016076706
-68,Akbar Reza,
-69,Novita Yustinadiar,
-70,Annas Rabbani,
-71,Nur Indah Septriani,
-72,Sidiq Permana Putra,
-73,Utaminingsih,
-74,Wahyu Aristyaning Putri,
-75,Dwi Sendi Priyono,
+No,name,id,NIDN
+1,Abdul Rahman Siregar,5976797,0526118402
+2,Abdul Razaq Chasani,6014438,0029037401
+3,Akbar Reza,6200486,0010049103
+4,Andhika Puspito Nugroho,5976983,0008087602
+5,Annas Rabbani,6690307,0029088904
+6,Aprilia Sufi Subiastuti,,0020049303 
+7,Ardaning Nuriliani,6037774,0020128001 
+8,Ari Indrianto,,0025115805
+9,Arief Muammar,6017987,1120170055
+10,Aries Bagus Sasongko,6017558,0511038303
+11,Bambang Agus Suripto,6043922,0026075805
+12,Bambang Retnoaji,30059,0020107002
+13,Budi Setiadi Daryono,21420,0026037001
+14,Diah Rachmawati,6014449,0010017102
+15,Dila Hening Windyaraini,6014567,0015028805
+16,Donan Satria Yudha,5981593,0526108001
+17,Dwi Sendi Priyono,6760508,0030099206
+18,Dwi Umi Siswanti,6000546,0510097701
+19,Eko Agus Suyono,42920, 0018127101
+20,Endah Retnaningrum,42921,0019037201
+21,Endang Semiarti,5973460,00231162o4
+22,Fajar Sofyantoro,6073146,0003058904
+23,Ganies Riza Aristya,5973150,0016028403
+24,Hari Purwanto,6015559,0012076605
+25,Hendry Tssg Saragih,258288,0026097803
+26,Heri Sujadmiko,6017931,0009026402
+27,Ignatius Sudaryadi,5976838,0016076706
+28,Indra Lesmana,6023357,0001119201
+29,Kumala Dewi,5976559,0008046606
+30,Laksmindra Fitria,5976833,0016107503
+31,Laurentius Hartanto Nugroho,5977709,0030046502
+32,Lisna Hidayati,6002859,0021038604
+33,Ludmilla Fitri Untari,5986653,0006117201
+34,Luthfi Nurhidayat,5973466,0014118703
+35,Maryani,6016534,0010076504
+36,Matin Nuhamunada,6014421,0008099102
+37,Miftahul Ilmi,258133,0023098002
+38,Mukhlish Jamal Musa Holle,6014471,0022119201
+39,Mulyati,6025299,0024105907
+40,Nastiti Wijayanti,5972899,0021037908
+41,Niken Satuti Nur Handayani,5973470,0028126503
+42,Novita Yustinadiar,6721418,0029038702
+43,Nur Indah Septriani,6721424,0012098904
+44,Purnomo,257625,0021045504
+45,R C Hidayat Soesilohadi,6014250,0008075706
+46,Rahadian Yudo Hartantyo,5976774,0007108703
+47,Rarastoeti Pratiwi,257321,0025106305
+48,Ratih Aryasari,,0018046902
+49,Ratna Susandarini,5991537,0007046905
+50,Rina Sri Kasiamdari,6003781,0010126704
+51,Rr Upiek Ngesti Wibawaning A,6014643,0028036404
+52,Rury Eprilurahman,6000808,0021048102
+53,Sari Darmasiwi,6014589,0507088401
+54,Sidiq Permana Putra,6751699,0013089201
+55,Siti Nurleily Marliana,42922,0001047501
+56,Siti Sumarmi,6015468,0005055908
+57,Siti Susanti,6038161,0016125703
+58,Slamet Widiyanto,5973465,0013126803
+59,Soenarwan Hery Poerwanto,6014439,0018027301
+60,Sudjino,,0012055606
+61,Suharyanto,6017954,0006125503
+62,Sukirno,43311,0012038104
+63,Susilohadi,6015704,0026086802
+64,Sutikno,6038294,0018095606
+65,Suwarno Hadisusanto,6017929,0016115402
+66,Tjut Sugandawaty Djohan,6015983,0012095303
+67,Tri Rini Nuringtyas,21396,0027037304
+68,Trijoko,6014468,0027027513
+69,Tuty Arisuryanti,43298,0029046602
+70,Utaminingsih,6042638,0018048708
+71,Wahyu Aristyaning Putri,6760087,0028088807
+72,Wiko Arif Wibowo,,
+73,Woro Anindito Sri Tunjung,6021239,0520077903
+74,Yekti Asih Purwestri,21472,0023057104
+75,Zuliyati Rohmah,5988050,0001077901
+76,Widodo,21471,0018097005
