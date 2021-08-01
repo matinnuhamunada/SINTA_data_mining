@@ -1,4 +1,4 @@
-No,name,id_manual,NIDN
+No,name,id,NIDN
 0,Sutiman Bambang Sumitro,5998175,11035404
 1,Estri Laras Arumingtyas,5978827,18086306
 2,Fatchiyah,6137819,27116307

@@ -1,4 +1,4 @@
-No,name,id_manual,NIDN
+No,name,id,NIDN
 1,Robert Manurung,6036454,3125401
 2,Asep Hidayat,6035214,401066606
 3,Aos,6032302,13116704
@@ -79,3 +79,23 @@ No,name,id_manual,NIDN
 78,Tati Karliati,6033797,11016905
 79,Susana Paulina Dewi,6032402,422097101
 80,Sutrisno,6036370,4106210
+81,Rizkita Rachmi Esyanti,6041496,0007126101
+82,Husna Nugrahapraja,6652007,0021018703
+83,Shanty Rahayu Kusumawardani,6720778,0005078911
+84,Andira Rahmawati,5991104,0405089001
+85,Anriansyah Renggaman,6695165,0008088803
+86,Sartika Indah Amalia Sudiarto,6695253,0019128802
+87,Ima Mulyama Zainuddin,6657904,0330058201
+88,Popi Septiani,6720779,0024098406
+89,Aditya Dimas Pramudya,6676526,0006108904
+90,Karlia Meitha,6652785,0022058404
+91,Tati Suryati Syamsudin,6002375,0026035701
+92,Sri Nanan B Widiyanto,6036289,0014035701
+93,Pingkan Aditiawati,6197842,0010095802
+94,Kamarisima,6035443,0001039002
+95,Jayen Aris Kriswantoro,6746687,0031079401
+96,Muhammad Yusuf Abduh,6033897,0025078308
+97,Neil Priharto,6035402,0005018606
+98,Taufikurahman,6659462,0013096101
+99,Mochammad Firmansyah,6717657,0015069501
+100,Khairul Hadi Burhan,6667723,0002079005
