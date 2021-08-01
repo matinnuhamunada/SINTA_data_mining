@@ -19,10 +19,12 @@ Anda bisa berkontribusi dengan cara:
 ├── README.md
 ├── data
 │   └── {Universitas}
-│       ├── data_NIDN-versi-sinta.txt #manually curated data
-│       └── {Universitas}_bio_retired.txt #excluded authors
+│       ├── {Universitas}_data_NIDN.txt #[optional] manually curated data
+│       ├── {Universitas}_bio_retired.txt #[optional] excluded authors
+│       └── {Universitas}_affil_information.txt
 ├── notebooks
-│   ├── 00_data_scraping-{Universitas}.ipynb #scrape data and prepare for vis
+│   ├── 00_data_scraping-all.ipynb #scrape data and prepare for vis
+│   ├── 00_data_scraping-template.ipynb #for manual exploration and scraping
 │   └── 01_data_cleaning.ipynb #clean & initial visualization
 ├── scripts
 │   └── author_search.py
